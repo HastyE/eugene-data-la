@@ -6,6 +6,7 @@ Data Analyst | Python · SQL · Power BI | Turning messy data into clear busines
 👋 About Me
 
 Data Analyst based in Machakos, Kenya, with hands-on expertise in Python, SQL, and Power BI. Microsoft Certified Trainer (MCT) endorsed in Power BI and AI tools, and an AWS AI & ML Scholar.
+
 I focus on turning raw, messy data into clear, actionable business insights — backed by proper statistical rigor, not just charts.
 
 📧 Email: hastingsdata072@gmail.com
@@ -40,9 +41,13 @@ Merged 6 relational tables to generate $20.47M in total revenue insights.’ Cam
 
 
 
+
+
 Brazilian E-Commerce SQL Analysis
 Tools: SQL, PostgreSQL/pg Admin. Dataset: Olist Store — 99,441 orders
 Used a CTE with RANK () to rank Brazilian states by revenue. Identified top 10 product categories by revenue. Confirmed $20.47M total revenue and $7.67M leading state revenue via SQL queries.
+
+
 
 
 
@@ -52,9 +57,13 @@ Total revenue of $2.27M with a 12.6% profit margin. Technology leads with $836K 
 
 
 
+
+
  Superstore SQL Analysis
 Tools: MySQL Workbench · Dataset: 9,994 orders
 Ranked top customers per region using `RANK () OVER (PARTITION BY…). Identified loss-making products via subqueries. Delivered a single consolidated SQL script documenting the full analysis.
+
+
 
 
 
@@ -64,15 +73,21 @@ Attrition rate of 16.1% — above the 10% industry benchmark. R&D department has
 
 
 
+
+
  Cars Sales Dashboard (Exodus Experts)
 Tools: Power BI · Dataset: Botswana & South Africa markets
 South Africa leads at 67% of revenue. 3 Series is the top model at 26% market share. Gaborone leads cities at $2.01M revenue.
 
 
 
+
+
  Titanic Statistical Analysis
 Tools: Python, SciPy · Dataset: 891 passengers
 Gender significantly affects survival (p < 0.05). Survivors paid significantly higher fares than non-survivors. Passenger class strongly correlates with survival rate.
+
+
 
 
 ---
